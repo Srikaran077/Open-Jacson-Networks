@@ -1,5 +1,7 @@
-                                                                     Name: POZHILAN V D
-                                                                     Reg no: 212223240118
+```
+                                                              Name:M.Srikaran
+                                                              Reg no: 212223040206
+```
 # EX-6:Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
